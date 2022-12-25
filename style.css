@@ -18,3 +18,8 @@ a {
     font-size: 30px;
 }
 
+a > img {
+    width: 300px;
+    height: auto;
+}
+
